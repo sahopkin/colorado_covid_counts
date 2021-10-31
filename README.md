@@ -1,2 +1,2 @@
 # colorado_covid_counts
-This repository contains a Jupyter Notebook that was used to generates GeoPandas plots of positive Covid case counts by county from June 1, 2020 to October 14, 2021.  The file includes all of the plots already loaded after the final code cell which is why the file size is so large.  Video of the plots pieced together in flipbook format can be viewed [in this link](https://youtu.be/aVxJBf6tdgE)
+This repository contains a Jupyter Notebook that was used to generates GeoPandas plots of positive Covid case counts by county from June 1, 2020 to October 14, 2021.  Video of the plots pieced together in flipbook format can be viewed [in this link](https://youtu.be/aVxJBf6tdgE)
